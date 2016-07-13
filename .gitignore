@@ -1,0 +1,23 @@
+# Unrelated folders
+grasping/
+detection/
+mask/
+nnet/
+results/
+save/
+tasks/detection/
+tasks/dictiosize
+plot/
+toolbox/arrow
+toolbox/bayesopt
+data/backgroundImages
+data/detection
+data/mask
+data/rawDataSet
+data/washington-rgbd/rawDataSet
+
+
+# Unrelated files
+loaddata/BAD_labelObjectInDataset.m
+loaddata/loadDetectionCandidateRectangle.m
+opts/thingsToVerify.txt
